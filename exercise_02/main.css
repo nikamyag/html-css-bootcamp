@@ -1,0 +1,8 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  border-radius: 100%;
+  border: 20px groove indigo;
+
+}

@@ -1,0 +1,5 @@
+/* lets you edit the content live(on the web page) */
+[contenteditable] {
+    color: red;
+    border: 1px dashed black;
+}

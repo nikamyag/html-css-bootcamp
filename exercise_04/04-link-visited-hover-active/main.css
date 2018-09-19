@@ -1,0 +1,20 @@
+ body {
+   font-size: 36px;
+   font-kerning: auto;
+
+ }
+a:link {
+  color: pink;
+}
+a:visited {
+color: green;
+
+}
+a:hover {
+  color: blue;
+
+}
+a:active {
+  color: yellow;
+
+}

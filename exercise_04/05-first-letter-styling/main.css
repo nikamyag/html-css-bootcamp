@@ -1,0 +1,13 @@
+body {
+  font-size: 36px;
+  font-style: italic;
+
+}
+p::first-letter {
+  color: red;
+  font-style: oblique;
+}
+p::first-line {
+  color: red;
+
+}

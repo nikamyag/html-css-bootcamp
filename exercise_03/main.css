@@ -1,0 +1,28 @@
+body {
+  background-color: royalblue;
+
+}
+
+.greenesh {
+  width: 50%;
+  background-color: lightgreen;
+  border: 2px solid black;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+img {
+  margin: 0 auto;
+  border-radius: 100%;
+  border: 10px groove yellow;
+}
+
+h2 {
+  font-weight: normal;
+}
+.headerOne {
+  color: royalblue;
+}
+.headerTwo {
+  color: red;
+}

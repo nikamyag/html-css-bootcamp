@@ -8,23 +8,24 @@ div {
 }
 
 img {
+  width: 100px;
+  /* box-sizing: upon increasing certain values the element tends to occupy more space on a page, box sizing helps to shrink the content instead and not take any extra space on a web page */
+  box-sizing: border-box;
   border: 10px groove orangered;
-  border-radius: 100%;
   padding: 10px;
-  margin: 30px;
   height: 80px;
 
 
 }
 .onedog {
   border: 10px dashed orangered;
-  border-radius: 50%;
+
 }
 .twodog {
   border: 10px groove orangered;
-  border-radius: 50%;
+
 }
 .threedog {
   border: 10px groove orangered;
-  border-radius: 50%;
+
 }
