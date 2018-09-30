@@ -1,0 +1,26 @@
+p {
+  font-family: 'Roboto Slab', serif;
+  max-width: 500px;
+  align-items: center;
+
+
+}
+.one {
+  font-weight: 300;
+  text-decoration: line-through;
+  text-indent: 2rem;
+  text-align: center;
+  color: indigo;
+
+
+}
+ #two {
+   font-weight: 400;
+   font-style: oblique;
+   text-align: center;
+
+}
+#three {
+  font-weight: 700;
+  text-align: center;
+}
