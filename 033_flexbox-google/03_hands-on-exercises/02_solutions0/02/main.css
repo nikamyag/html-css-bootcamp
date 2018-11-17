@@ -13,8 +13,8 @@ div {
 }
 .c1 {
   background-image: url("https://images.pexels.com/photos/257540/pexels-photo-257540.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  /* background-size: cover; */
-  /* background-position: center; */
+  background-size: cover;
+  background-position: center;
 }
 .c2 {
   background-color: red;

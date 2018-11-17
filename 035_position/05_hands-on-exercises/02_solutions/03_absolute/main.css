@@ -1,0 +1,17 @@
+#one {
+  position: relative;
+  height: 300px;
+  width: 300px;
+  background-color: hotpink;
+  border: 2px solid orange;
+
+}
+#two {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  /* bottom: 150px; */
+  top: 150px;
+  left: 200px;
+}

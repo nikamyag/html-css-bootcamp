@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* height: 600px; */
+  width: 100vw;
+  border: 2px solid black;
+
+}
+div{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border: 2px solid orange;
+  margin: 0 auto;
+
+}
+#two {
+  position: relative;
+  left: 15px;
+  top: 15px;
+}

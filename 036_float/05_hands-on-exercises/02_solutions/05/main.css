@@ -1,0 +1,22 @@
+
+body{
+  width: 80%;
+  margin: 0 auto;
+
+}
+nav {
+  float: left;
+  width: 25%;
+  height: 400px;
+  overflow: auto;
+}
+main {
+  float: right;
+  width: 74%;
+  height: 400px;
+}
+main, nav {
+    box-sizing: border-box;
+    border: 2px solid blue;
+    background-color: orange;
+}
