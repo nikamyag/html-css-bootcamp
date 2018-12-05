@@ -20,9 +20,9 @@ html {
     /* formatting */
 }
 
-#idx-atf > div {
+/* #idx-atf > div {
     height: 14vh;
-}
+} */
 
 .idx-center-spacebetween {
     display: flex;
